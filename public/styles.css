@@ -1,11 +1,7 @@
-p { color: blue; }
-.done { text-decoration: line-through; }
-li:hover { background: #eee; }
-
 body {
   padding-top: 50px;
 }
-.starter-template {
+.container {
   padding: 40px 15px;
   text-align: center;
 }
